@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="note-app__footer">
       <center>
-        Copyright &#169; 2023,{" "}
+        Copyright &#169; 2024,{" "}
         <a
           className="link"
           target="_blank"
